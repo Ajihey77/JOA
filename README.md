@@ -22,6 +22,9 @@
 1. 한달에 한번 공부한 내용을 앞에서 발표 및 공유 합니다.
 2. 발표를 듣고 서로 피드백을 주고 받습니다.
 
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## 개발 환경 설정
 
 모든 개발 의존성 설치 방법과 자동 테스트 슈트 실행 방법을 운영체제 별로 작성합니다.
