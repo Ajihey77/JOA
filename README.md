@@ -1,4 +1,4 @@
-# JOA
+# JOA [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAjihey77%2FJOA.git&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 > 뭐든지 싫은 세상에서 여기서라도 조아를 외치다
 
 [![NPM Version][npm-image]][npm-url]
